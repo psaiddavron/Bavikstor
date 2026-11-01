@@ -22,5 +22,11 @@
     "description": "для саидумара",
     "version": "2-745-1142",
     "apk": "https:\/\/github.com\/psaiddavron\/Bavikstor\/releases\/download\/app-1793522260\/app-1793522260.apk"
+  },
+  {
+    "name": "kidtube",
+    "description": "для детей и родителей можно контролировать что будет смотреть ребёнок код для родителя по умолчанию 1234",
+    "version": "1.2",
+    "apk": "https:\/\/github.com\/psaiddavron\/Bavikstor\/releases\/download\/app-1793529150\/app-1793529150.apk"
   }
 ]
