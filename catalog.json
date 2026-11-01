@@ -4,5 +4,11 @@
     "description": "rustore российские приложение",
     "version": "1.112.0.4",
     "apk": "https:\/\/github.com\/psaiddavron\/Bavikstor\/releases\/download\/app-1793520010\/app-1793520010.apk"
+  },
+  {
+    "name": "geometry dash",
+    "description": "",
+    "version": "4.4",
+    "apk": "https:\/\/github.com\/psaiddavron\/Bavikstor\/releases\/download\/app-1793520822\/app-1793520822.apk"
   }
 ]
