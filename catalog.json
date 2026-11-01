@@ -10,5 +10,11 @@
     "description": "",
     "version": "4.4",
     "apk": "https:\/\/github.com\/psaiddavron\/Bavikstor\/releases\/download\/app-1793520822\/app-1793520822.apk"
+  },
+  {
+    "name": "msx",
+    "description": "видео телеканалы",
+    "version": "0.1.165",
+    "apk": "https:\/\/github.com\/psaiddavron\/Bavikstor\/releases\/download\/app-1793521814\/app-1793521814.apk"
   }
 ]
