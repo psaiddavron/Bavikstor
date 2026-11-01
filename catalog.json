@@ -34,5 +34,11 @@
     "description": "игра",
     "version": "1.0",
     "apk": "https:\/\/github.com\/psaiddavron\/Bavikstor\/releases\/download\/app-1793529966\/app-1793529966.apk"
+  },
+  {
+    "name": "bavikmass",
+    "description": "мессенджер для тех кто уважает свои данные тут можно зарегатся на почту",
+    "version": "2.3",
+    "apk": "https:\/\/github.com\/psaiddavron\/Bavikstor\/releases\/download\/app-1793548697\/app-1793548697.apk"
   }
 ]
